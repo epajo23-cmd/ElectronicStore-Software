@@ -77,10 +77,15 @@ Demo Access
 Demo users and credentials are included in the demo data.txt file.
 
 Notes
+
 This project was developed for educational purposes
 The application is functional and can be extended further
-Contributors
+Contributors :
+
 Thomas Kroj
+
 Eden Pajo
+
 Marin Tartaraj
+
 Nadire Lazri
