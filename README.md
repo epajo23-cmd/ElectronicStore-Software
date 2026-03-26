@@ -61,10 +61,15 @@ bills
 Generated bills are saved in the DAO folder as text files.
 
 How to Run
+
 1.Open the project in Eclipse or another Java IDE
+
 2.Make sure Java 21 is installed
+
 3.Add the required JavaFX libraries
+
 4.Run:
+
 src/main/Main.java
 
 Demo Access
